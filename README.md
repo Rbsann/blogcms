@@ -27,3 +27,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+//TODO: Edit blog posts,sort blog posts by chronological order and small layout adjustments, like 
+fixing the display of the button on the navbar.
+//This is more a proof of concept than a product though.
